@@ -1,0 +1,9 @@
+The main dataset is comprised of three files from the Vaccine Adverse Event Reporting System. All the files are related by patient IDs. The first file has the primary information of the patient including their current medications and illnesses, the facility type, and prior vaccines. The second file reports all the symptoms the patients have. Finally, the third file has the vaccine type, where the vaccine was delivered and how it was delivered. We are interested in seeing what types of vaccines are most common in resulting in an adverse event and relating that to how the vaccine was delivered, the patient's history, and what type of facility they were given the vaccine in. This may help us and others understand how to prevent these adverse events from happening when administering vaccines.
+
+You can download the dataset here: 
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-primary-information-2016/55e626c5-080e-44f9-a619-fa5d7ca92fd6
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-symptoms-2016/0f10f1ee-72de-4e29-b7bf-d7fd5cde08f2
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-vaccines-2016/dccb3b03-0d93-474f-997f-9e37a186ca32
