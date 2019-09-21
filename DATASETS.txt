@@ -4,6 +4,20 @@ You can download the dataset below. In the repo you can find pictures with the e
 
 https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-primary-information-2016/55e626c5-080e-44f9-a619-fa5d7ca92fd6
 
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-primary-information-2014/4113221e-e12b-4322-a845-a54bbeb11f61
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-primary-information-2015/40fa34e6-e688-4128-b12a-55fd637a6032
+
+
 https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-symptoms-2016/0f10f1ee-72de-4e29-b7bf-d7fd5cde08f2
 
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-symptoms-2014/cdb87259-a98a-4f5b-8817-c549d6d9a69b
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-symptoms-2015/7e233ca0-8232-41c2-8674-5349f34197db
+
+
 https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-vaccines-2016/dccb3b03-0d93-474f-997f-9e37a186ca32
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-vaccines-2014/85770d53-3f62-4672-af15-90301419871f
+
+https://public.enigma.com/datasets/vaccine-adverse-event-reporting-system-vaccines-2015/9de2c9d1-71c0-41b0-837a-ed30376ace6e
